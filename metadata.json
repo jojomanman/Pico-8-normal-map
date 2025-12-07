@@ -1,0 +1,5 @@
+{
+  "name": "Pico-8 Normal Map Converter",
+  "description": "Converts standard normal map images into a Pico-8 compatible 64x32 sprite string format, encoding surface gradients for 3D effects.",
+  "requestFramePermissions": []
+}
